@@ -24,7 +24,9 @@ Program to implement a Serialization and Deserialization using Java
 Developed by: Dilip Kumar R
 Register Number: 212222040037
 */
-
+```
+## SOURCE CODE:
+```
 import java.io.*;
 import java.util.Scanner;
 import java.util.zip.GZIPOutputStream;
@@ -81,6 +83,7 @@ public class GZIPMemoryExample {
 
 ## RESULT:
 The program successfully compresses and decompresses a string in memory using GZIP streams, showing reduced data size and restoring the original text accurately.
+
 
 
 
