@@ -19,7 +19,9 @@ Program to implement a File Handling using Java
 Developed by: Dilip Kumar R
 Register Number: 212222040037
 */
-
+```
+## SOURCE CODE:
+```
 import java.io.*;
 
 public class FileCharacterCount {
@@ -71,6 +73,7 @@ public class FileCharacterCount {
 
 ## RESULT:
 The program successfully reads the file and prints the total number of characters present in it.
+
 
 
 
